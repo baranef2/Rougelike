@@ -1,0 +1,27 @@
+# Tüm metin dosyaları için satır sonlarını otomatik ayarla
+* text=auto
+
+# Unity'nin metin tabanlı asset'leri için özel ayarlar
+*.cs text
+*.shader text
+*.cginc text
+*.unity text
+*.asset text
+*.prefab text
+*.mat text
+*.anim text
+*.controller text
+*.meta text
+
+# Binary (ikili) dosyalar, bunlara dokunma
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.obj binary
+*.dll binary
+*.bytes binary
